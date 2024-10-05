@@ -1,6 +1,4 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Akmal Kafi**.<br>
+# Akmal Kafi
 
 **Mobile Developer Cohort at Bangkit Academy 2024 | Web Developer | UI\UX Designer**.<br>
 
