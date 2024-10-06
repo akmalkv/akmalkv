@@ -2,7 +2,7 @@
 
 **Mobile Developer Cohort at Bangkit Academy 2024 | Web Developer | UI\UX Designer**.<br>
 
-Web Developer and UX Designer with a passion for crafting intuitive and engaging digital experiences. Proficient in HTML, CSS, JavaScript, and frameworks like React. Possesses a deep understanding of UX design principles and experience in designing responsive and user-friendly interfaces. Committed to continuous learning and growth in the ever-evolving tech landscape.<br>
+Web Developer and UX Designer with a passion for crafting intuitive and engaging digital experiences. Proficient in HTML, CSS, JavaScript, and React.js. Possesses a deep understanding of UX design principles and experience in designing responsive and user-friendly interfaces. Committed to continuous learning and growth in the ever-evolving tech landscape.<br>
 
 ### Social Media :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalkv/)
