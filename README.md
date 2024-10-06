@@ -5,7 +5,9 @@
 Web Developer and UX Designer with a passion for crafting intuitive and engaging digital experiences. Proficient in HTML, CSS, JavaScript, and frameworks like React. Possesses a deep understanding of UX design principles and experience in designing responsive and user-friendly interfaces. Committed to continuous learning and growth in the ever-evolving tech landscape.<br>
 
 ### Social Media :
-<li>[Linkedin](https://www.linkedin.com/in/akmalkv/)</li>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalkv/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akmalkv)
+
 
 ### Github Statistic
 <p align="left">
