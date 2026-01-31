@@ -1,8 +1,11 @@
 # Akmal Kafi
 
-**Mobile Developer Cohort at Bangkit Academy 2024 | Web Developer | UI\UX Designer**.<br>
+**Mobile Developer Cohort at Bangkit Academy 2024 | Software Engineer**.<br>
 
-Web Developer and UX Designer with a passion for crafting intuitive and engaging digital experiences. Proficient in HTML, CSS, JavaScript, and React.js. Possesses a deep understanding of UX design principles and experience in designing responsive and user-friendly interfaces. Committed to continuous learning and growth in the ever-evolving tech landscape.<br>
+Software Engineer with expertise in mobile (Android/Kotlin) and web development (frontend &
+backend). Skilled in UI/UX, database management, and API integration, with experience delivering
+scalable and user-friendly applications. Strong in agile project management, collaboration, and
+problem-solving, with a passion for continuous learning and building impactful software solutions.<br>
 
 ### Social Media :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmalkv/)
